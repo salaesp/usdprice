@@ -20,7 +20,7 @@ messages = [
 ]
 
 PERCENTAGE_GANANCIA = 0.35
-PERCENTAGE_SOLIDARIO = 0.35
+PERCENTAGE_SOLIDARIO = 0.30
 done = False
 
 class BuenbitPrice:
